@@ -10,10 +10,14 @@ npx node-cli-react-quiz
 ## Packages used
 <ul>
 
-<li>[chalk](https://www.npmjs.com/package/chalk) </li>
-<li> [chalk animation](https://www.npmjs.com/package/chalk-animation) </li> 
-<li> [figlet](https://www.npmjs.com/package/figlet) </li>
-<li> [gradient-string](https://www.npmjs.com/package/gradient-string) </li>
-<li> [nanospinner](https://github.com/usmanyunusov/nanospinner) </li>
-<li> [inquirer](https://www.npmjs.com/package/inquirer) </li> 
+<li><a href="https://www.npmjs.com/package/chalk">chalk</a> </li>
+<li><a href="https://www.npmjs.com/package/chalk-animation">chalk animation</a> </li> 
+<li> <a href="https://www.npmjs.com/package/figlet">figlet]</a> </li>
+<li> <a href="https://www.npmjs.com/package/gradient-string">gradient-string</a></li>
+<li> <a href="https://github.com/usmanyunusov/nanospinner">nanospinner</a> </li>
+<li> <a href="https://www.npmjs.com/package/inquirer">inquirer </a></li> 
 </ul>
+
+## Acknowledgement
+
+Inspiration from [Jeff](https://www.npmjs.com/~jeffd23)
