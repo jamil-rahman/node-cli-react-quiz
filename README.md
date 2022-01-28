@@ -12,7 +12,7 @@ npx node-cli-react-quiz
 
 <li><a href="https://www.npmjs.com/package/chalk">chalk</a> </li>
 <li><a href="https://www.npmjs.com/package/chalk-animation">chalk animation</a> </li> 
-<li> <a href="https://www.npmjs.com/package/figlet">figlet]</a> </li>
+<li> <a href="https://www.npmjs.com/package/figlet">figlet</a> </li>
 <li> <a href="https://www.npmjs.com/package/gradient-string">gradient-string</a></li>
 <li> <a href="https://github.com/usmanyunusov/nanospinner">nanospinner</a> </li>
 <li> <a href="https://www.npmjs.com/package/inquirer">inquirer </a></li> 
